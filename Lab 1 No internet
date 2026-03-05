@@ -1,0 +1,35 @@
+# IT Support Labs
+
+Hands-on troubleshooting labs to build entry-level IT support skills. Simulates real-world helpdesk tickets like connectivity issues, using VirtualBox for Windows environments. Focus on OSI model diagnostics, fixes, and documentation for SA roles.
+
+## Lab 1: No Internet Connectivity
+
+Simulated common user ticket: "No Wi-Fi" caused by disabled adapter (e.g., accidental toggle or config error). Diagnosed bottom-up OSI, fixed in 5 mins.
+
+## Process
+- Identified: User report "no internet" — reproduced error.
+- Evaluated: OSI Layer 1 (physical connection in VirtualBox enabled?); Layer 2 (adapter disabled); Layer 3 (no IP from ipconfig).
+- Fixed: Enabled adapter, ipconfig /release /renew to get DHCP IP.
+- Confirmed: Restart VM, test browser — stable.
+
+## Real-World Relevance
+- 30% helpdesk calls are connectivity (Layer 1/2/3 user errors, e.g., Wi-Fi switch off); fixes like this prevent escalation in SA telcos/banks.
+- Builds troubleshooting for CCNA certs — recruiters test this in interviews (e.g., "Explain no IP fix").
+
+## Tech Stack
+- VirtualBox for VM
+- Windows 10 for Os
+- Cmd for ipconfig/netsh commands
+
+## Challenges & Solutions
+- Challenge: No IP after enable — Solution: /release /renew to refresh DHCP.
+- Challenge: VM network — Solution: Checked VirtualBox settings (Layer 1).
+
+## Screenshots
+
+
+
+## Note
+
+
+Built to demonstrate systematic problem-solving for helpdesk roles; open to feedback.
