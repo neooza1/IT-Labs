@@ -32,6 +32,7 @@ Simulated common user ticket: "No Wi-Fi" caused by disabled adapter (e.g., accid
 <img width="1024" height="768" alt="Fixed browser" src="https://github.com/user-attachments/assets/8d4695f6-024c-485c-9fc4-96bbd57920d0" />
 
 [Lab note.txt](https://github.com/user-attachments/files/25779994/Lab.note.txt)
+
 Full Troubleshooting Note (from my lab log)
 Identified: Disabled adapter (Layer 2 user error, e.g. accidental toggle). 
 Evaluated: OSI bottom-up — Layer 1 checked in VirtualBox, Layer 2 disabled, Layer 3 no IP from ipconfig. 
@@ -44,3 +45,4 @@ Time: 5 mins. Real-world: Common helpdesk ticket
 
 
 Built to demonstrate systematic problem-solving for helpdesk roles; open to feedback.
+
