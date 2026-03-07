@@ -15,6 +15,8 @@ Perfect for CCNA-level interviews and junior helpdesk/desktop support roles at t
 
 ## Labs
 - Lab 1: No Internet Connectivity → [Lab 1 No internet.md](Lab%201%20No%20internet.md)
+- Lab 2 : Wrong IP address ( Subnet Mismatch) → [Lab 2 Wrong IP.md](https://github.com/user-attachments/files/25815171/Lab.2.Wrong.IP.md)
+
 
 Built by Neo Kale — open to feedback or collaboration for junior IT support roles in Gauteng.
 
