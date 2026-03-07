@@ -16,18 +16,22 @@ Reset adapter to DHCP:
 Restart VM → browser and ipconfig stable.
 
 **Real-World Relevance**  
-Happens daily in SA offices (banks, telcos, government). Quick fix prevents escalation and shows recruiters you can handle basic network troubleshooting.
+Happens daily in SA offices . Quick fix prevents escalation and shows recruiters you can handle basic network troubleshooting.
 
 **Tech Stack**  
 - VirtualBox (Windows 10 VM)  
 - Cmd commands (ipconfig, netsh)
 
 **Screenshots**  
-[Drag and drop your 5 screenshots here — GitHub will auto-upload them]  
+1.Baseline (working IP & browser)
 
 ![Baseline](https://github.com/user-attachments/assets/54121e51-8e76-48a5-9f78-949106d3bf32)
 
+2. Break ( static command + error)
+   
 ![Break Command](https://github.com/user-attachments/assets/7816e283-5bfb-4878-bb6a-2e093daf79fc)
+
+3.Fixed (new DHCP IP + browser)
 
 ![fixed  Result](https://github.com/user-attachments/assets/681cf95a-b63c-47f6-93c0-0158c854237f)
 
@@ -42,5 +46,6 @@ Evaluated : ipconfig showed incorrect subnet, no connectivity.
 Fixed : Reset to DHCP + release/renew.
 Confirmed: Stable after restart.
 Real-world: Users manually change IP or malware does it
+
 
 
