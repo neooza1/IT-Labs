@@ -22,6 +22,6 @@ Perfect for CCNA-level interviews and junior helpdesk/desktop support roles at t
 
 
 
-Built by Neo Kale — open to feedback or collaboration for junior IT support roles in Gauteng.
+Built by Neo Kale — open to feedback or collaboration for junior IT support roles.
 
 Last updated: March 2026
