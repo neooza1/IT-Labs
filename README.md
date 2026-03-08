@@ -15,7 +15,7 @@ Perfect for CCNA-level interviews and junior helpdesk/desktop support roles at t
 
 ## Labs
 - Lab 1: No Internet Connectivity → [Lab 1 No internet.md](Lab%201%20No%20internet.md)
-- Lab 2 : Wrong IP address ( Subnet Mismatch) → [Lab 2 Wrong IP.md](https://github.com/user-attachments/files/25815171/Lab.2.Wrong.IP.md)
+- Lab 2 : Wrong IP address ( Subnet Mismatch) → [Lab 2 Wrong IP.md](Lab%202%20Wrong%20IP.md)
 - Lab 3 : Printer offline → [Lab 3 Printer offline.md](https://github.com/user-attachments/files/25820448/Lab.3.Printer.offline.md)
 - Lab 4 : Sound driver error → [Lab 4 Sound driver.md](https://github.com/user-attachments/files/25820465/Lab.4.Sound.driver.md)
 
