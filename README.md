@@ -18,7 +18,7 @@ Perfect for CCNA-level interviews and junior helpdesk/desktop support roles at t
 - Lab 2 : Wrong IP address ( Subnet Mismatch) → [Lab 2 Wrong IP.md](Lab%202%20Wrong%20IP.md)
 - Lab 3 : Printer offline → [Lab 3 Printer offline.md](Lab%203%20Printer%20offline.md)
 - Lab 4 : Sound driver error → [Lab 4 Sound driver.md](Lab%204%20Sound%20driver.md)
-- Lab 5 : Remote Desktop Simulation (AnyDesk Connection Fail) → 
+- Lab 5 : Remote Desktop Simulation (AnyDesk Connection Fail) → [lab 5 Remote Desktop Simulation(AnyDesk).md](https://github.com/neooza1/IT-Labs/blob/main/Lab%205%20%20Remote%20Desktop%20Simulation%20(Anydesk).md)
 
 
 
