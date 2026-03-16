@@ -44,16 +44,23 @@ This lab demonstrates evidence-based troubleshooting rather than guesswork.
 **Screenshots**  
 
 1. **Baseline – Event Viewer Open (System Log)**  
-   *(Insert screenshot here)*
+   <img width="1024" height="768" alt="Baseline" src="https://github.com/user-attachments/assets/eaa1a2a6-3fa1-4511-b93d-cbc67741c288" />
+
 
 2. **Issue Detected – Service Control Manager Event Selected**  
-   *(Insert screenshot here)*
+
+   <img width="1024" height="768" alt="Break" src="https://github.com/user-attachments/assets/0f34039f-4152-4638-804b-872f766bb920" />
+
 
 3. **Evaluation – Event Details Reviewed (General Tab)**  
-   *(Insert screenshot here)*
+
+  <img width="1024" height="768" alt="Confirmed" src="https://github.com/user-attachments/assets/a787d1a4-e2be-4d00-a286-79a3f0f582ae" />
+
 
 4. **Confirmed Diagnosis – Event Details Verified (Details Tab)**  
-   *(Insert screenshot here)*
+
+ <img width="1024" height="768" alt="Evaluate" src="https://github.com/user-attachments/assets/55cdd2f5-337a-4250-b403-1c1d8c50e415" />
+
 
 **Lab Note**  
 Used Event Viewer to investigate a Service Control Manager event under Windows Logs > System.  
