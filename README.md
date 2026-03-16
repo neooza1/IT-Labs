@@ -10,7 +10,7 @@ This portfolio is designed to demonstrate practical proof of work for roles such
 - Helpdesk / Service Desk
 - Desktop Support
 - Junior Infrastructure Support
-- 
+  
 ## Why These Labs Matter
 Many entry-level IT support interviews focus less on theory and more on whether you can troubleshoot common user issues in a structured way.
 
