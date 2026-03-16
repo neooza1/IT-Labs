@@ -36,19 +36,23 @@ This lab demonstrates practical troubleshooting of Windows services using built-
 
 ### 1. Baseline (Windows Update working before issue)
 
-![alt text](Baseline.png)
+<img width="1024" height="768" alt="Baseline" src="https://github.com/user-attachments/assets/0932cb00-1b0f-4c06-bee9-49e20821cfe0" />
+
 
 ### 2. Break (Windows Update service stopped + update issue)
 
-![alt text](Break.png)
+<img width="1024" height="768" alt="Break" src="https://github.com/user-attachments/assets/e57d3600-4858-4ca0-b63c-1c2014c2f9fd" />
+
 
 ### 3. Evaluate (Windows Update service stopped in services.msc)
 
-![alt text](Evaluate.png)
+<img width="1024" height="768" alt="Evaluate" src="https://github.com/user-attachments/assets/7794dd35-a4a0-4a44-8b16-2a4656ba92d0" />
+
 
 ### 4. Fixed (service restarted + Windows Update working again)
 
-![alt text](Fixed.png)
+<img width="1024" height="768" alt="Fixed" src="https://github.com/user-attachments/assets/6084e66e-a0ea-47b1-b431-a173169e1f5f" />
+
 
 ## Lab Note
 **Lab 7: Windows Service Failure (Windows Update Service Stopped)**
