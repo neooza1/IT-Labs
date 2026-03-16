@@ -20,6 +20,9 @@ Perfect for CCNA-level interviews and junior helpdesk/desktop support roles at t
 - Lab 4 : Sound driver error → [Lab 4 Sound driver.md](Lab%204%20Sound%20driver.md)
 - Lab 5 : Remote Desktop Simulation (AnyDesk Connection Fail) → [lab 5 Remote Desktop Simulation(AnyDesk).md](https://github.com/neooza1/IT-Labs/blob/main/Lab%205%20%20Remote%20Desktop%20Simulation%20(Anydesk).md)
 - Lab 6 : User Account Locked in Active Directory → [Lab 6 User Account Locked in Active directory.md](Lab%206%20User%20Account%20Locked%20in%20Active%20Directory.md)
+- Lab 7 : Windows Service Failure ( Wndows Update Service Stopped) → [Lab 7 Windows Service Failure ( Wndows Update Service Stopped).md](Lab%207%20Windows%20Service%20Failure%20(%20Wndows%20Update%20Service%20Stopped).md)
+- Lab 8 : Disk Space Full (System Slow) → [Lab 8- Disk Space Full(System Slow)](Lab%208-%20Disk%20Space%20Full(System%20Slow).md)
+- lab 9 : Event Viewer Analysis (Windows Error Investigation) → [Lab 9 Event Viewer Analysis (Window](Lab%209%20Event%20Viewer%20Analysis%20(Window.md)
 
 
 
