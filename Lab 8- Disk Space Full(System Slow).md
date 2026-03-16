@@ -33,8 +33,21 @@ This lab demonstrates practical disk space troubleshooting and safe cleanup in W
 
 ## Screenshots
 
-Screenshots were captured during the lab and saved locally for documentation.  
-They will be added in a future repository cleanup pass.
+### 1. Baseline
+<img width="1024" height="768" alt="Baseline" src="https://github.com/user-attachments/assets/156f6b69-389b-473b-bcb3-6bdc5dc188ba" />
+
+### 2. Break
+
+<img width="1024" height="768" alt="Break" src="https://github.com/user-attachments/assets/42016d13-28ea-4e58-8cce-90c9caeeafae" />
+
+### 3. Evaluate
+
+<img width="1024" height="768" alt="Evaluate" src="https://github.com/user-attachments/assets/b5441698-7a68-4f7d-84af-84303c1bcea9" />
+
+### 4. Fixed 
+
+<img width="1024" height="768" alt="Fix" src="https://github.com/user-attachments/assets/41e11cbc-86f3-43b7-a2ad-a5628d09c59e" />
+
 
 ## Lab Note
 **Lab 8: Disk Space Full (System Slow)**
