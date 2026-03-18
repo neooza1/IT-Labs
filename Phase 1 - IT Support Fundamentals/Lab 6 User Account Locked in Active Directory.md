@@ -1,4 +1,4 @@
-[notepad.txt](https://github.com/user-attachments/files/25920325/notepad.txt) Lab 6: User Account Locked in Active Directory
+ Lab 6: User Account Locked in Active Directory
 
 **Scenario**  
 User calls helpdesk: “My account is locked, and I can’t log in.”  
