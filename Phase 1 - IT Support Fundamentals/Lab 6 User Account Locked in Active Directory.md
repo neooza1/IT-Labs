@@ -1,4 +1,4 @@
- Lab 6: User Account Locked in Active Directory
+## Lab 6: User Account Locked in Active Directory
 
 **Scenario**  
 User calls helpdesk: “My account is locked, and I can’t log in.”  
