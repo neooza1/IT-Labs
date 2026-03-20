@@ -42,16 +42,26 @@ This reflects a common systems administration task where IT organizes users by d
 ## Screenshots
 
 ### 1. Baseline (Active Directory before changes)
-![Baseline ADUC](INSERT_IMAGE_LINK_HERE)
+
+<img width="1024" height="768" alt="Baseline" src="https://github.com/user-attachments/assets/8adda31c-9ab1-4444-a0e1-a35c7afa7805" />
+
 
 ### 2. OUs and users created
-![OUs and Users](INSERT_IMAGE_LINK_HERE)
+
+![OUs + Users expanded](https://github.com/user-attachments/assets/845ebf5d-0b4d-4ef3-b297-20d2ca6e4b8c)
+
 
 ### 3. Security groups created
-![Security Groups](INSERT_IMAGE_LINK_HERE)
+
+<img width="1024" height="768" alt="Lab 10 IT Security Group" src="https://github.com/user-attachments/assets/e86c1e11-7df8-4b99-87de-13591aebcddb" />
+
 
 ### 4. Group membership confirmed
-![Group Membership](INSERT_IMAGE_LINK_HERE)
+
+<img width="1024" height="768" alt="IT user listed" src="https://github.com/user-attachments/assets/812e22fe-a037-4648-8e87-c9907e79c56f" />
+
 
 ## Lab Note
 This lab demonstrates foundational Active Directory administration by creating department OUs, user accounts, and security groups in a structured domain environment.
+[Notepad for Lab 10.txt](https://github.com/user-attachments/files/26132993/Notepad.for.Lab.10.txt)
+
