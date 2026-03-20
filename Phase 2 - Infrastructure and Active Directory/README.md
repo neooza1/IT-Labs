@@ -4,13 +4,21 @@ This phase focuses on Windows Server, Active Directory administration, Group Pol
 
 Labs in this phase will demonstrate practical infrastructure support skills beyond basic helpdesk troubleshooting.
 
+## Completed Labs
+- [Lab 10: Active Directory Users, OUs & Security Groups](./Lab%2010%20Active%20Directory%20Users%2C%20OUs%20%26%20Security%20Groups.md)
+
 ## Planned Labs
-- Lab 10: Active Directory Users, OUs & Security Groups
 - Lab 11: Group Policy (GPO) Creation + Link
 - Lab 12: Shared Folder Permissions + Map Network Drive
 - Lab 13: DHCP Setup on Windows Server
 - Lab 14: DNS Zone + Client Name Resolution
 
+## Environment 
+- Windows Server 2022
+- Windows 10 Pro (domain Client)
+- Active directory Domain Services (AD DS)
+- Group Policy Management
+- VirtualBox
 ---
 
 Built by *Neo Kale* as part of a practical IT infrastructure portfolio.
