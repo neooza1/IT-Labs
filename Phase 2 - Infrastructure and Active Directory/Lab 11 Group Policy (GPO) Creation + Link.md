@@ -62,16 +62,24 @@ The network issue during testing also mirrors a real infrastructure support scen
 ## Screenshots
 
 ### 1. Baseline (finance.user logged in, Control Panel accessible before policy)
-![Baseline Control Panel Access](INSERT_IMAGE_LINK_HERE)
+
+![Baseline](https://github.com/user-attachments/assets/8aeb8f89-f80c-45b4-836d-40137da5e25d)
+
 
 ### 2. GPO created and linked to Finance OU
-![GPO Linked to Finance OU](INSERT_IMAGE_LINK_HERE)
+
+<img width="1024" height="768" alt="Lab 11 GPO Linked" src="https://github.com/user-attachments/assets/8ab3afab-b59c-46d7-abe2-bc172c66d76b" />
+
 
 ### 3. Policy enabled in Group Policy Editor
-![Policy Enabled](INSERT_IMAGE_LINK_HERE)
+
+<img width="1024" height="768" alt="Lab 11 GPO Policy enabled" src="https://github.com/user-attachments/assets/68380ce2-0e11-47ba-9f47-d57fa8904595" />
+
 
 ### 4. Control Panel blocked after policy application
-![Control Panel Blocked](INSERT_IMAGE_LINK_HERE)
+
+<img width="1024" height="768" alt="Lab confirmed Control Panel" src="https://github.com/user-attachments/assets/e4661af0-762f-41fb-88df-fb71ea5e0a83" />
+
 
 ## Lab Note
 This lab demonstrates practical **Group Policy administration** by creating and linking a user-based GPO to a department OU, validating the restriction on a domain-joined Windows 10 client, and troubleshooting a real domain connectivity issue caused by incorrect VM network settings.
