@@ -48,17 +48,26 @@ This is a common office IT scenario in environments where departments like Finan
 
 ## Screenshots
 
+
 ### 1. Server-side Share and NTFS permissions configured for Finance_Users
-![Server Share and NTFS Permissions](INSERT_IMAGE_LINK_HERE)
+
+![Baseline](https://github.com/user-attachments/assets/c39cee2c-d035-43a6-ae4a-cef84da71486)
+
 
 ### 2. finance.user accesses the FinanceShare folder from the Windows 10 domain client
-![Client Access to Share](INSERT_IMAGE_LINK_HERE)
+
+<img width="1024" height="768" alt="Server File share windows 10" src="https://github.com/user-attachments/assets/c2db8a90-4c57-440e-b76b-4cc22075e793" />
 
 ### 3. FinanceShare mapped as a network drive (F:)
-![Mapped Network Drive](INSERT_IMAGE_LINK_HERE)
+
+<img width="1024" height="768" alt="Mapped Network Drive" src="https://github.com/user-attachments/assets/9ebc4fda-6eb2-44ff-bd9b-857cc04f056e" />
+
 
 ### 4. Confirmed read and write access from the mapped drive
-![Confirmed Read Write Access](INSERT_IMAGE_LINK_HERE)
+
+<img width="1917" height="937" alt="Lab 12 confirmed" src="https://github.com/user-attachments/assets/3a481aa2-34d2-4e31-88a5-f8bd443d6c80" />
 
 ## Lab Note
 This lab demonstrates practical **file sharing and access control** in a domain environment by creating a shared folder on a Windows Server, assigning both **Share** and **NTFS** permissions to an Active Directory security group, validating access from a domain-joined Windows 10 client, and mapping the share as a network drive for end-user usability.
+[Notepad.txt](https://github.com/user-attachments/files/26164168/Notepad.txt)
+
