@@ -7,13 +7,13 @@ Labs in this phase will demonstrate practical infrastructure support skills beyo
 ## Completed Labs
 - [Lab 10: Active Directory Users, OUs & Security Groups](./Lab%2010%20Active%20Directory%20Users%2C%20OUs%20%26%20Security%20Groups.md)
 - [Lab 11: Group Policy (GPO) Creation + Link](./Lab%2011%20Group%20Policy%20(GPO)%20Creation%20%2B%20Link.md)
+- [Lab 12: Shared Folder Permissions + Map Network Drive](./Lab%2012%20Shared%20Folder%20Permissions%20+%20Map%20Network%20Drive.md)
 
 ## Planned Labs
 
-- Lab 12: Shared Folder Permissions + Map Network Drive
+
 - Lab 13: DHCP Setup on Windows Server
 - Lab 14: DNS Zone + Client Name Resolution
-
 ## Environment 
 - Windows Server 2022
 - Windows 10 Pro (domain Client)
