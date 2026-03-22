@@ -1,18 +1,18 @@
-Lab 13: DHCP Configuration and Client IP Lease (Windows Server 2022)
+## Lab 13: DHCP Configuration and Client IP Lease (Windows Server 2022)
 
-------------------------------------------------------------
 
-Scenario:
+
+## Scenario:
 A Windows 10 Pro client in a domain environment was unable to receive an IP address automatically. This simulated a common real-world infrastructure issue where devices fail to obtain a DHCP lease, affecting connectivity and productivity.
 
-------------------------------------------------------------
 
-Objective:
+
+## Objective:
+
 To configure a DHCP Server on Windows Server 2022 and ensure that a domain-joined Windows 10 client can successfully obtain an IP address automatically.
 
-------------------------------------------------------------
 
-Environment:
+## Environment:
 - VirtualBox
 - Windows Server 2022 (Domain Controller)
 - Windows 10 Pro (Domain Client)
@@ -27,9 +27,9 @@ Client:
 - Logged in as: LAB\testuser
 - Configured to obtain IP and DNS automatically
 
-------------------------------------------------------------
 
-Steps Performed:
+
+## Steps Performed:
 
 1. Verified Client Network State
 - Ran ipconfig /all on Windows 10 client
@@ -71,9 +71,9 @@ Steps Performed:
 - Successfully pinged the server (192.168.10.10)
 - Verified name resolution using nslookup
 
-------------------------------------------------------------
 
-Challenges Encountered:
+
+## Challenges Encountered:
 
 - DHCP lease failed during initial ipconfig /renew attempt
 - Client could not contact DHCP server
@@ -88,31 +88,14 @@ Resolution:
 - Restarted DHCP service where necessary
 - Re-ran ipconfig /release and ipconfig /renew
 
-------------------------------------------------------------
 
-Outcome:
+
+## Outcome:
 
 The Windows 10 client successfully received an IP address from the DHCP server. Network connectivity and DNS resolution were confirmed.
 
-------------------------------------------------------------
 
-Real-World Relevance:
-
-This lab demonstrates a common IT support and infrastructure task involving:
-- DHCP server deployment
-- IP address management
-- Network troubleshooting
-- Client-server communication validation
-
-These are critical skills for:
-- IT Support Specialist
-- Junior Systems Administrator
-- Infrastructure Support Technician
-- Network Support Roles
-
-------------------------------------------------------------
-
-Tools Used:
+## Tools Used:
 - Windows Server 2022
 - Windows 10 Pro
 - DHCP Server
@@ -120,10 +103,39 @@ Tools Used:
 - Command Prompt
 - VirtualBox
 
-------------------------------------------------------------
+  ## Screenshots
+  ### 1. Baseline (client IP details before DHCP)
 
-Conclusion:
+  <img width="1024" height="768" alt="Baseline" src="https://github.com/user-attachments/assets/990ca9f9-17a9-40cb-982e-a2450c005c80" />
+
+
+  ### 2. Client adapter set to obtain IP automatically
+
+  <img width="1024" height="768" alt="Lab13 clientDHCP" src="https://github.com/user-attachments/assets/599a2f4d-8148-493b-ad68-51bf0c43572c" />
+
+
+ 
+  ### 3. DHCP role installed on Windows Server
+
+  <img width="1024" height="768" alt="DHCProle" src="https://github.com/user-attachments/assets/2cea6afc-5ef2-4491-a6ee-e46044d9c8e1" />
+
+	### 4. DHCP post-install configuration completed
+
+   <img width="1024" height="768" alt="Configiration Complete" src="https://github.com/user-attachments/assets/170cac85-c8a1-4d40-9cc3-072bc54d6d60" />
+
+	### 5. DHCP scope created and activated
+
+  <img width="1024" height="768" alt="Scope created" src="https://github.com/user-attachments/assets/4c2a8ebc-0676-4d6b-bf64-69d66b75d833" />
+
+	### 6. Client successfully received DHCP lease
+
+  <img width="1024" height="768" alt="Lease success" src="https://github.com/user-attachments/assets/3cda6b5d-8b1d-488b-ac7d-ffa1464e6709" />
+
+	### 7. Connectivity confirmed (ping / optional nslookup)
+<img width="1024" height="768" alt="Confirmed" src="https://github.com/user-attachments/assets/f9976dc5-ca1d-4bd6-9dd1-e171dee0c154" />
+
+
+## Conclusion:
 
 This lab strengthened practical understanding of DHCP configuration and troubleshooting in a Windows Server environment. It highlights the importance of proper network setup and service configuration in enterprise environments.
 
-------------------------------------------------------------
