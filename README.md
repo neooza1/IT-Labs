@@ -23,8 +23,8 @@ This repository is structured in phases to show progression from desktop support
 - [Lab 10: Active Directory Users, OUs & Security Groups](./Phase%202%20-%20Infrastructure%20and%20Active%20Directory/Lab%2010%20Active%20Directory%20Users%2C%20OUs%20%26%20Security%20Groups.md)
 - [Lab 11: Group Policy (GPO) Creation + Link](./Phase%202%20-%20Infrastructure%20and%20Active%20Directory/Lab%2011%20Group%20Policy%20(GPO)%20Creation%20%2B%20Link.md)   
 - [Lab 12: Shared Folder Permissions + Map Network Drive](./Phase%202%20-%20Infrastructure%20and%20Active%20Directory/Lab%2012%20Shared%20Folder%20Permissions%20+%20Map%20Network%20Drive.md)
-- Lab 13: DHCP Setup on Windows Server *(in progress)*
-- Lab 14: DNS Zone + Client Name Resolution
+- [Lab 13: DHCP Setup on Windows Server](./Phase%202%20-%20Infrastructure%20and%20Active%20Directory/Lab%2013%20DHCP%20Setup%20on%20Windows%20Server.md) 
+- Lab 14: DNS Zone + Client Name Resolution *(in progress)*
 
 ---
 
