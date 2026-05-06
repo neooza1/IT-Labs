@@ -28,19 +28,5 @@ This repository is structured in phases to show progression from desktop support
 
 ---
 
-## Phase 3 — Networking Fundamentals
-- VLAN Configuration
-- Routing + ACL
-- Wireless Troubleshooting
-- Network Monitoring & Troubleshooting
 
----
-
-## Phase 4 — Security and Troubleshooting
-- Firewall Rules + Port Blocking
-- Malware Simulation & Removal
-- Password Policy & Account Security
-
----
-
-Built by **Neo Kale** — open to junior IT support, ICT support, helpdesk, and infrastructure support opportunities.
+Built by **Neo Kale** — 
