@@ -10,8 +10,8 @@ Simulated common user ticket: "No Wi-Fi" caused by disabled adapter (e.g., accid
 - Confirmed: Restart VM, test browser — stable.
 
 ## Real-World Relevance
-- 30% helpdesk calls are connectivity (Layer 1/2/3 user errors, e.g., Wi-Fi switch off); fixes like this prevent escalation in SA telcos/banks.
-- Builds troubleshooting for CCNA certs — recruiters test this in interviews (e.g., "Explain no IP fix").
+- "No internet" is one of the most common helpdesk tickets. Many are simple Layer 1–3 causes (cable, disabled adapter, no IP) that a first-line technician can fix without escalating.
+- Practises a bottom-up OSI troubleshooting method that applies to any connectivity fault.
 
 ## Tech Stack
 - VirtualBox for VM

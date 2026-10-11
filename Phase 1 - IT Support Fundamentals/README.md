@@ -14,7 +14,7 @@ The goal of this phase is to build strong troubleshooting fundamentals before pr
 - [Lab 4: Sound Driver Error](./Lab%204%20Sound%20driver.md)
 - [Lab 5: Remote Desktop Failure (AnyDesk)](./Lab%205%20Remote%20Desktop%20Simulation(Anydesk).md)
 - [Lab 6: User Account Locked in Active Directory](./Lab%206%20User%20Account%20Locked%20in%20Active%20Directory.md)
-- [Lab 7: Windows Service Failure](./Lab%207%20Windows%20Service%20Failure)
+- [Lab 7: Windows Service Failure](./Lab%207%20Windows%20Service%20Failure.md)
 - [Lab 8: Disk Space Full](./Lab%208%20Disk%20Space%20full(system%20slow).md)
 - [Lab 9: Event Viewer Analysis](./Lab%209%20Event%20Viewer%20Analysis%20(Window).md)
 
