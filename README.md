@@ -56,4 +56,4 @@ Built with Windows 10/11, Windows Server 2019/2022, Active Directory, Microsoft 
 
 IT graduate (Diploma in IT, VUT) doing a 12-month IT internship at Brilliantel, working on cabling, WAN and network infrastructure. Previously volunteered in IT support at Budget Wi-Fi Fibre (Jan–Mar 2026).
 
-**LinkedIn:** https://www.linkedin.com/in/neo-kale-2294b8242/
+**LinkedIn:** https://www.linkedin.com/in/neokale/
